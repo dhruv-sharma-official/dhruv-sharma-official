@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv Sharma</h1>
 <h3 align="center">Cyber Security Student</h3>
 
-<img align="right" alt="img" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gifcen.com%2Fhacker-gif-20%2F&psig=AOvVaw1TzbmlU5uML49AbLd-NOSW&ust=1721915617575000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPDIx9rpv4cDFQAAAAAdAAAAABBg">
+<img align="right" alt="img" width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gifcen.com%2Fhacker-gif-20%2F&psig=AOvVaw1TzbmlU5uML49AbLd-NOSW&ust=1721915617575000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPDIx9rpv4cDFQAAAAAdAAAAABBg">
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
