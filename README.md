@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv Sharma</h1>
 <h3 align="center">Cyber Security Student</h3>
 
-<img align="right" alt="img" width="400" src="https://media.gifdb.com/green-static-background-hacking-zxdixjwjemrjnoen.gif">
+<img align="right" alt="img" width="400" src="[https://media.gifdb.com/green-static-background-hacking-zxdixjwjemrjnoen.gif](https://gifdb.com/images/high/green-static-background-hacking-zxdixjwjemrjnoen.webp)">
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
