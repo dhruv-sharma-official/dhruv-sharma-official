@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv Sharma</h1>
 <h3 align="center">Cyber Security Student</h3>
 
-<img align="right" alt="cyberskull" width="400" src="https://hackread.com/wp-content/uploads/2016/02/android-boot-animation.gif">
+<img align="right" alt="cyberskull" height="300" src="https://hackread.com/wp-content/uploads/2016/02/android-boot-animation.gif">
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
